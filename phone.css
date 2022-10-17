@@ -1,0 +1,17 @@
+@media only screen and ( min-width:300px){
+    .songItem{
+        width: 271px;
+    }
+    .songItemcontainer{
+        margin-top: 13px;
+    }
+    .icons{
+        font-size: 10px;
+        margin-left: 35px;
+        margin-top: 28px;
+    }
+    .songinfo img{
+        height: 25px;
+        width: 50px;
+    }
+}
